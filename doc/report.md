@@ -34,7 +34,7 @@ It successfully registers in Eureka:
 ![Second_account_registered](img/3-accounts_second_registered.png)
 ![Eureka_second_account_registered](img/3-eureka_2_accounts.png)
 
-As it is shown, there are 2 `ACCOUNTS_SERVICE` available.
+As it is shown, there are 2 `ACCOUNTS-SERVICE` available.
 
 ## What happens when you kill the service with port 2222. Can the web service provide information about the accounts? Why?
 
