@@ -52,4 +52,4 @@ by a PR so other fellow can try it.
 
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
-|     |           |      |             |       |
+| 780378 | Óscar Pueyo | [report](https://github.com/iksopo/lab6-microservices/blob/test/doc/report.md) |             |       |
