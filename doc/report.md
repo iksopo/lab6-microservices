@@ -22,7 +22,7 @@ Also each service is getting registered in Eureka.
 Now after a short period of time they will be registered in Eureka:
 ![Eureka dashboard](img/1-servicios_registrados.png)
 
-It produces the following log:
+It produces the following log (doesn't log anything about registered services):
 ![Eureka_log](img/1-eureka_log.png)
 
 Now both services are registered in Eureka and appear correctly in the dashboard.
@@ -41,7 +41,7 @@ As it is shown, there are 2 `ACCOUNTS_SERVICE` available.
 After killing the account service in 2222, the corresponding service disappears from Eureka:
 ![Eureka_dashboard_2222_killed](img/4-eureka_dashboard_kill2222.png)
 
-It takes some time to reconfigure, After that, you can ask information to the web service about
+It takes some time to reconfigure. After that, you can ask information to the web service about
 the accounts without producing any `500: Internal Server Error` (it is caused while Eureka still redirects to the dead
 service until it realises it is down).
 
