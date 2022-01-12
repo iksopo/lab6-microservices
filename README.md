@@ -50,6 +50,16 @@ Proposed:
 Manifest your intention first by a PR updating this `README.md` with your goal. If you desist of your goal, release it
 by a PR so other fellow can try it.
 
-| NIA | User name | Repo | Improvement | Score |
+| NIA | User name | Report | Improvement | Score |
 |-----|-----------|------|-------------|-------|
+| 757166 | Pablo Jordan | [Primary Goal](https://github.com/pabloJordan24/lab6-microservices/blob/test/PrimaryGoal/PrimaryGoal.md) |             |       |
+| 755232 | Diego Marco | [report](https://github.com/dmarcob/lab6-microservices/blob/test/report.md) |
+| 778097 | Héctor Bara |  [Solution](https://github.com/dolansete/lab6-microservices/blob/test/report.md)    |             |       |
+| 778148 | José Marín | [report](https://github.com/jmarindiez/lab6-microservices/blob/test/docs/report.md) |             |       |
+| 774840 | [Fernando Serrano](https://github.com/Feer93/lab6-microservices) | [report](https://github.com/Feer93/lab6-microservices/blob/test/documentation.md) |             |       |
+| 755848 | Guillermo Cánovas González | [Report](https://github.com/guillecanovas/lab6-microservices/blob/test/report.md)
+| 785649 | [Andoni Salcedo](https://github.com/AndoniSalcedo/lab6-microservices) | [report.md](https://github.com/AndoniSalcedo/lab6-microservices/blob/test/report.md) | | |
+| 767870 | Diego García Muro | [report](https://github.com/thdgm/lab6-microservices/blob/test/ReportMD/ReportMD.md)  |             |       |
+| 780448 | María Peña | [Report](https://github.com/Keyleth8/lab6-microservices/blob/test/Solution.md) |             |       |
+| 779354 |Alejandro Magallón Soler|[Report](https://github.com/alecron/lab6-microservices/blob/test/Report.md)      |             |       |
 | 780378 | Óscar Pueyo | [report](https://github.com/iksopo/lab6-microservices/blob/test/doc/report.md) |             |       |
